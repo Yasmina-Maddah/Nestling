@@ -1,70 +1,135 @@
-# Getting Started with Create React App
+<img src="./readme/title1.svg"/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br><br>
 
-## Available Scripts
+<!-- project philosophy -->
+<img src="./readme/title2.svg"/>
 
-In the project directory, you can run:
+> A mobile app for ordering coffee on-the-go, making it easier for coffee lovers to get their favorite beverages without waiting in line.
+>
+> Coffee Express aims to streamline the coffee-ordering process by providing a user-friendly platform for customers to place orders and pick up their coffee at their convenience. We believe in enhancing the coffee experience by saving time and ensuring customer satisfaction.
 
-### `npm start`
+### User Stories
+- As a user, I want to browse the menu, so I can find my favorite coffee drinks.
+- As a user, I want to customize my order, so I can add or remove ingredients according to my preferences.
+- As a user, I want to pay for my order through the app, so I can avoid waiting in line at the store.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br><br>
+<!-- Tech stack -->
+<img src="./readme/title3.svg"/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+###  Coffee Express is built using the following technologies:
 
-### `npm test`
+- This project uses the [Flutter app development framework](https://flutter.dev/). Flutter is a cross-platform hybrid app development platform which allows us to use a single codebase for apps on mobile, desktop, and the web.
+- For persistent storage (database), the app uses the [Hive](https://hivedb.dev/) package which allows the app to create a custom storage schema and save it to a local database.
+- To send local push notifications, the app uses the [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) package which supports Android, iOS, and macOS.
+  - 🚨 Currently, notifications aren't working on macOS. This is a known issue that we are working to resolve!
+- The app uses the font ["Work Sans"](https://fonts.google.com/specimen/Work+Sans) as its main font, and the design of the app adheres to the material design guidelines.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br><br>
+<!-- UI UX -->
+<img src="./readme/title4.svg"/>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> We designed Coffee Express using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Project Figma design [figma](https://www.figma.com/file/LsuOx5Wnh5YTGSEtrgvz4l/Purrfect-Pals?type=design&node-id=257%3A79&mode=design&t=adzbABt5hbb91ucZ-1)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Mockups
+| Home screen  | Menu Screen | Order Screen |
+| ---| ---| ---|
+| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br><br>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<!-- Database Design -->
+<img src="./readme/title5.svg"/>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+###  Architecting Data Excellence: Innovative Database Design Strategies:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Insert ER Diagram here
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br><br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+<!-- Implementation -->
+<img src="./readme/title6.svg"/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+### User Screens (Mobile)
+| Login screen  | Register screen | Landing screen | Loading screen |
+| ---| ---| ---| ---|
+| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+| Home screen  | Menu Screen | Order Screen | Checkout Screen |
+| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Admin Screens (Web)
+| Login screen  | Register screen |  Landing screen |
+| ---| ---| ---|
+| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| Home screen  | Menu Screen | Order Screen |
+| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 
-### Making a Progressive Web App
+<br><br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+<!-- Prompt Engineering -->
+<img src="./readme/title7.svg"/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+###  Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
 
-### Deployment
+- This project uses advanced prompt engineering techniques to optimize the interaction with natural language processing models. By skillfully crafting input instructions, we tailor the behavior of the models to achieve precise and efficient language understanding and generation for various tasks and preferences.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<br><br>
 
-### `npm run build` fails to minify
+<!-- AWS Deployment -->
+<img src="./readme/title8.svg"/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+###  Efficient AI Deployment: Unleashing the Potential with AWS Integration:
+
+- This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
+
+<br><br>
+
+<!-- Unit Testing -->
+<img src="./readme/title9.svg"/>
+
+###  Precision in Development: Harnessing the Power of Unit Testing:
+
+- This project employs rigorous unit testing methodologies to ensure the reliability and accuracy of code components. By systematically evaluating individual units of the software, we guarantee a robust foundation, identifying and addressing potential issues early in the development process.
+
+<br><br>
+
+
+<!-- How to run -->
+<img src="./readme/title10.svg"/>
+
+> To set up Coffee Express locally, follow these steps:
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Get a free API Key at [example](https://example.com)
+2. Clone the repo
+   git clone [github](https://github.com/your_username_/Project-Name.git)
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
+
+Now, you should be able to run Coffee Express locally and explore its features.
