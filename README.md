@@ -5,9 +5,9 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
-> A mobile app for ordering coffee on-the-go, making it easier for coffee lovers to get their favorite beverages without waiting in line.
+> Nestling is a groundbreaking platform that empowers parents to actively support their children’s development using innovative AI-driven tools. From captivating story visualizations to dynamic skill tracking and tailored recommendations, Nestling offers a unique blend of technology and education. Parents can effortlessly create profiles for their children, monitor progress, and explore curated resources designed to nurture key developmental skills.
 >
-> Coffee Express aims to streamline the coffee-ordering process by providing a user-friendly platform for customers to place orders and pick up their coffee at their convenience. We believe in enhancing the coffee experience by saving time and ensuring customer satisfaction.
+> What sets Nestling apart is its commitment to creating an engaging and personalized learning experience. By combining cutting-edge AI with thoughtful design, the platform transforms everyday interactions into meaningful growth opportunities. It’s not just a tool—it’s a one-stop hub for fostering creativity, critical thinking, and lifelong learning in a way that’s as enjoyable as it is impactful.
 
 ### User Stories
 - As a user, I want to browse the menu, so I can find my favorite coffee drinks.
