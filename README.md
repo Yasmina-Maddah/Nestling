@@ -18,13 +18,12 @@
 <!-- Tech stack -->
 <img src="./readme/title3.svg"/>
 
-###  Coffee Express is built using the following technologies:
+###  Nestling is built using the following technologies:
 
-- This project uses the [Flutter app development framework](https://flutter.dev/). Flutter is a cross-platform hybrid app development platform which allows us to use a single codebase for apps on mobile, desktop, and the web.
-- For persistent storage (database), the app uses the [Hive](https://hivedb.dev/) package which allows the app to create a custom storage schema and save it to a local database.
+- This project uses the [React v18 Libraryl](https://react.dev/). React is a JavaScript library for building user interfaces, especially single-page applications. It allows developers to create reusable UI components, manage state efficiently, and update the DOM dynamically for a seamless user experience.
+- For persistent storage (database), the app uses the [MySQL]. The project utilizes MySQL as the database to ensure efficient data storage, management, and retrieval.
 - To send local push notifications, the app uses the [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) package which supports Android, iOS, and macOS.
-  - 🚨 Currently, notifications aren't working on macOS. This is a known issue that we are working to resolve!
-- The app uses the font ["Work Sans"](https://fonts.google.com/specimen/Work+Sans) as its main font, and the design of the app adheres to the material design guidelines.
+- The project uses [Laravel], a PHP framework known for its elegant syntax and robust features, to streamline backend development. Its importance lies in providing tools for efficient routing, authentication, and database management, making development faster and more secure.
 
 <br><br>
 <!-- UI UX -->
