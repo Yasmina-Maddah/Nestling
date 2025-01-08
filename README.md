@@ -11,12 +11,15 @@
 
 ### User Stories
 
-### User
-- As a user, I use Nestling to create profiles for my children, monitor their development, and access AI-driven tools like skill tracking, personalized recommendations, and story visualizations to support their growth.
-- As a user, I can engage with interactive stories, games, and activities tailored to my interests and developmental needs. I can explore personalized content that makes learning enjoyable and fosters creativity, critical thinking, and skill growth.
+## User 👨‍👩‍👧
+- As a user, I want to create profiles for my children, including their names, ages, and interests, so that I can track their development and personalize their learning experience.
+- As a user, I want to select specific skills I want my children to develop from a predefined list so that I can focus on areas that are important to their growth.
+- As a user, I want to view detailed reports on my child’s skill development based on their activities on the platform so that I can better understand their learning journey.
 
-### Admin
-- As an adminstrator, I can manage the platform by updating skill lists, curating high-quality resources, and monitoring user engagement to enhance the user experience. I also ensure the system runs smoothly by resolving technical issues and maintaining content relevance.
+## Admin 👩🏽‍💼
+- As an administrator, I want to manage and update the list of predefined skills so that they align with the latest developmental research.
+- As an administrator, I want to add, edit, or remove recommended resources so that parents always have access to high-quality content.
+- As an administrator, I want to monitor user activity and engagement metrics so that I can identify opportunities for platform improvement.
 
 <br><br>
 <!-- Tech stack -->
