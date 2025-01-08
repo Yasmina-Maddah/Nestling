@@ -10,8 +10,12 @@
 > What sets Nestling apart is its commitment to creating an engaging and personalized learning experience. By combining cutting-edge AI with thoughtful design, the platform transforms everyday interactions into meaningful growth opportunities. It’s not just a tool—it’s a one-stop hub for fostering creativity, critical thinking, and lifelong learning in a way that’s as enjoyable as it is impactful.
 
 ### User Stories
-- As a parent, I use Nestling to create profiles for my children, monitor their development, and access AI-driven tools like skill tracking, personalized recommendations, and story visualizations to support their growth.
-- As a child, I can engage with interactive stories, games, and activities tailored to my interests and developmental needs. I can explore personalized content that makes learning enjoyable and fosters creativity, critical thinking, and skill growth.
+
+### User
+- As a user, I use Nestling to create profiles for my children, monitor their development, and access AI-driven tools like skill tracking, personalized recommendations, and story visualizations to support their growth.
+- As a user, I can engage with interactive stories, games, and activities tailored to my interests and developmental needs. I can explore personalized content that makes learning enjoyable and fosters creativity, critical thinking, and skill growth.
+
+### Admin
 - As an adminstrator, I can manage the platform by updating skill lists, curating high-quality resources, and monitoring user engagement to enhance the user experience. I also ensure the system runs smoothly by resolving technical issues and maintaining content relevance.
 
 <br><br>
@@ -29,7 +33,7 @@
 <img src="./readme/title4.svg"/>
 
 
-> We designed Coffee Express using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
+> We designed Nestling using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
 - Project Figma design [figma](https://www.figma.com/file/LsuOx5Wnh5YTGSEtrgvz4l/Purrfect-Pals?type=design&node-id=257%3A79&mode=design&t=adzbABt5hbb91ucZ-1)
 
