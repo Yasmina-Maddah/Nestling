@@ -10,9 +10,9 @@
 > What sets Nestling apart is its commitment to creating an engaging and personalized learning experience. By combining cutting-edge AI with thoughtful design, the platform transforms everyday interactions into meaningful growth opportunities. It’s not just a tool—it’s a one-stop hub for fostering creativity, critical thinking, and lifelong learning in a way that’s as enjoyable as it is impactful.
 
 ### User Stories
-- As a user, I want to browse the menu, so I can find my favorite coffee drinks.
-- As a user, I want to customize my order, so I can add or remove ingredients according to my preferences.
-- As a user, I want to pay for my order through the app, so I can avoid waiting in line at the store.
+- As a parent, I use Nestling to create profiles for my children, monitor their development, and access AI-driven tools like skill tracking, personalized recommendations, and story visualizations to support their growth.
+- As a child, I can engage with interactive stories, games, and activities tailored to my interests and developmental needs. I can explore personalized content that makes learning enjoyable and fosters creativity, critical thinking, and skill growth.
+- As an adminstrator, I can manage the platform by updating skill lists, curating high-quality resources, and monitoring user engagement to enhance the user experience. I also ensure the system runs smoothly by resolving technical issues and maintaining content relevance.
 
 <br><br>
 <!-- Tech stack -->
