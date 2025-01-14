@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Yasmina-Maddah/nestling-frontend.git
+[submodule "backnd"]
+	path = backnd
+	url = https://github.com/Yasmina-Maddah/nesting-backend.git
