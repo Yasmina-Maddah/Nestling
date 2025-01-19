@@ -44,7 +44,7 @@
 ### Mockups
 | Landing screen  | SignUp/Login Screens | 
 | ---| ---| 
-| ![Landing](./readme/mockupsImages/Landing%20Page%20(1).png) | ![fsdaf](./readme/mockupsImages/SignUp%20Page.png) | 
+| ![Landing](./readme/mockupsImages/Landing%20Page%20(1).png) | ![fsdaf](./readme/mockupsImages/SignUp%20Page.png)<br>![Login](./readme/mockupsImages/Login%20Page.png)| 
 
 | Dashboard Screen | Profile screen |
 | ---| ---| 
