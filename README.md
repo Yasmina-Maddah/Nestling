@@ -106,7 +106,7 @@
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
 
-> To set up Coffee Express locally, follow these steps:
+> To set up Nestling locally, follow these steps:
 
 ### Prerequisites
 
@@ -120,12 +120,28 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [example](https://example.com)
-2. Clone the repo
+1. Clone the repo
    git clone [github](https://github.com/Yasmina-Maddah/Nestling.git)
-3. Install NPM packages
+2. cd <Nestling>
+3. Setup the Backend(Laravel)
+  a. Install PHP & Composer
+  Ensure PHP (v8.0 or higher) and Composer are installed. Use these commands to check:
    ```sh
-   npm install
+    php -v
+    composer -v
+   ```
+  If not installed, download: 
+ -PHP
+ -Composer
+
+ b. Install Laravel Dependencies
+ Navigate to the backend directory 
+   ```sh
+    cd backnd
+   ```
+Install dependencies
+   ```sh
+    composer install
    ```
 4. Enter your API in `config.js`
    ```js
