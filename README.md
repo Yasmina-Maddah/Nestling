@@ -103,16 +103,6 @@
 
 <br><br>
 
-<!-- Unit Testing -->
-<img src="./readme/title9.svg"/>
-
-###  Precision in Development: Harnessing the Power of Unit Testing:
-
-- This project employs rigorous unit testing methodologies to ensure the reliability and accuracy of code components. By systematically evaluating individual units of the software, we guarantee a robust foundation, identifying and addressing potential issues early in the development process.
-
-<br><br>
-
-
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
 
@@ -132,7 +122,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Get a free API Key at [example](https://example.com)
 2. Clone the repo
-   git clone [github](https://github.com/your_username_/Project-Name.git)
+   git clone [github](https://github.com/Yasmina-Maddah/Nestling.git)
 3. Install NPM packages
    ```sh
    npm install
