@@ -48,7 +48,11 @@
 
 | Dashboard Screen | Profile screen |
 | ---| ---| 
-| ![Landing](./readme/mockupsImages/Dashboard%20(1).png) | ![fsdaf](./readme/mockupsImages/Profile%20Page.png) |
+| ![Dashboard](./readme/mockupsImages/Dashboard%20(1).png) | ![ProfilePage](./readme/mockupsImages/Profile%20Page.png) |
+
+| Skill Suggestion screen | AI screen |
+| ---| ---| 
+| ![SkillsPage](./readme/mockupsImages/Skill%20Suggestions%20Page.png) | ![AIPage](./readme/mockupsImages/Story%20Visualization%20Page%20(1).png) |
 <!-- Database Design -->
 <img src="./readme/title5.svg"/>
 
