@@ -42,12 +42,13 @@
 
 
 ### Mockups
-| Landing screen  | SignUp/Login Screens | Dashboard Screen |
-| ---| ---| ---|
-| ![Landing](./readme/mockupsImages/Landing%20Page%20(1).png) | ![fsdaf](./readme/mockupsImages/SignUp%20Page.png) | ![fsdaf](./readme/mockupsImages/Dashboard%20(1).png) |
+| Landing screen  | SignUp/Login Screens | 
+| ---| ---| 
+| ![Landing](./readme/mockupsImages/Landing%20Page%20(1).png) | ![fsdaf](./readme/mockupsImages/SignUp%20Page.png) | 
 
-<br><br>
-
+| Dashboard Screen | Profile screen |
+| ---| ---| 
+| ![Landing](./readme/mockupsImages/Dashboard%20(1).png) | ![fsdaf](./readme/mockupsImages/Profile%20Page.png) |
 <!-- Database Design -->
 <img src="./readme/title5.svg"/>
 
