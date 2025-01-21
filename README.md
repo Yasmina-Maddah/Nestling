@@ -27,8 +27,8 @@
 
 ###  Nestling is built using the following technologies:
 
-- This project uses the [React v18 Library](https://react.dev/). React is a JavaScript library for building user interfaces, especially single-page applications. It allows developers to create reusable UI components, manage state efficiently, and update the DOM dynamically for a seamless user experience.
-- For persistent storage (database), the app uses the [MySQL]. The project utilizes MySQL as the database to ensure efficient data storage, management, and retrieval.
+- This project uses the [React](https://react.dev/). React is a JavaScript library for building user interfaces, especially single-page applications. It allows developers to create reusable UI components, manage state efficiently, and update the DOM dynamically for a seamless user experience.
+- For persistent storage (database), the app uses the [MySQL](https://www.mysql.com/). The project utilizes MySQL as the database to ensure efficient data storage, management, and retrieval.
 - The project uses [Laravel](https://laravel.com/), a PHP framework known for its elegant syntax and robust features, to streamline backend development. Its importance lies in providing tools for efficient routing, authentication, and database management, making development faster and more secure.
 
 <br><br>
