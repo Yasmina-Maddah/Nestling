@@ -133,11 +133,11 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Follow the steps below to install and set up the PlantPulse app.
 
 1. Clone the repo
    git clone [github](https://github.com/Yasmina-Maddah/Nestling.git)
-2. cd <Nestling>
+2. cd Nestling
 3. Setup the Backend(Laravel)
 - Install PHP & Composer
 Ensure PHP (v8.0 or higher) and Composer are installed. Use these commands to check:
