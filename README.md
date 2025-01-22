@@ -30,6 +30,9 @@
 - This project uses the [React](https://react.dev/). React is a JavaScript library for building user interfaces, especially single-page applications. It allows developers to create reusable UI components, manage state efficiently, and update the DOM dynamically for a seamless user experience.
 - For persistent storage (database), the app uses the [MySQL](https://www.mysql.com/). The project utilizes MySQL as the database to ensure efficient data storage, management, and retrieval.
 - The project uses [Laravel](https://laravel.com/), a PHP framework known for its elegant syntax and robust features, to streamline backend development. Its importance lies in providing tools for efficient routing, authentication, and database management, making development faster and more secure.
+- [JWT](https://jwt.io/) is utilized for authentication and session management.
+- The chatbot is powered by [OpenAI GPT-4](https://openai.com/), with the integration managed through the Node.js service.
+
 
 <br><br>
 <!-- UI UX -->
@@ -100,6 +103,18 @@
 ###  Efficient AI Deployment: Unleashing the Potential with AWS Integration:
 
 - This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
+
+- API Documentation: Detailed API documentation can be accessed through Postman.
+
+- Website URL: Visit our live website at .
+
+| Login API  | GET Children Profiles API | 
+| ---| ---| 
+| ![Login](./readme/pstmanImages/LoginAPI.png) | ![profile](./readme/pstmanImages/profileAPI.png) | 
+
+
+
+
 
 <br><br>
 
