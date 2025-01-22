@@ -112,9 +112,8 @@
 | ---| ---| 
 | ![Login](./readme/pstmanImages/LoginAPI.png) | ![profile](./readme/pstmanImages/profileAPI.png) | 
 
-
-
-
+| POST AI Visualization API | POST Challenegs API |
+| ![Visualization](./readme/pstmanImages/aiVisualizationAPI.png) | ![Challenges](./readme/pstmanImages/challengesAPI.png) | 
 
 <br><br>
 
