@@ -139,28 +139,59 @@ _Below is an example of how you can instruct your audience on installing and set
    git clone [github](https://github.com/Yasmina-Maddah/Nestling.git)
 2. cd <Nestling>
 3. Setup the Backend(Laravel)
-  a. Install PHP & Composer
-  Ensure PHP (v8.0 or higher) and Composer are installed. Use these commands to check:
-   ```sh
+- Install PHP & Composer
+Ensure PHP (v8.0 or higher) and Composer are installed. Use these commands to check:
+```sh
     php -v
     composer -v
-   ```
+ ```
   If not installed, download: 
  -PHP
  -Composer
 
- b. Install Laravel Dependencies
+ - Install Laravel Dependencies
  Navigate to the backend directory 
-   ```sh
+```sh
     cd backnd
-   ```
-Install dependencies
-   ```sh
+```
+ - Install dependencies
+```sh
     composer install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-Now, you should be able to run Coffee Express locally and explore its features.
+```
+- Copy the .env.example file to .env
+```sh
+    cp .env.example .env
+```
+- Update the .env file with your database configuration
+```sh
+    DB_CONNECTION=mysql
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=nestling_db
+    DB_USERNAME=root
+    DB_PASSWORD=
+```
+- Open phpMyAdmin (http://localhost/phpmyadmin)
+- Create a new database named nestling_db
+- Run migrations
+```sh
+    php artisan migrate
+```
+- Run the Laravel server
+```sh
+    php artisan serve
+```
+4. Set Up the Frontend (React)
+- Navigate to the frontend folder:
+```sh
+    cd frontend
+```
+- Install Node.js dependencies:
+```sh
+    npm install
+```
+- Start the React development server:
+```sh
+    npm start
+```
+Now, you should be able to run Nestling locally and explore its features.
